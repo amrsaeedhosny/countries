@@ -1,5 +1,7 @@
 # Countries
 
+![GitHub](https://img.shields.io/github/license/amrsaeedhosny/countries)
+
 This is the countries data stored in different file formats. The data has been constructed and organized with the help of [GeoNames](https://www.geonames.org) public data.
 
 ## Country Data
