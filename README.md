@@ -12,13 +12,13 @@ This is the countries data stored in different file formats. The data has been c
 
 ## Availabe File Formats:
 
-* CSV
+* CSV:
 
 English Name|Arabic Name|Alpha-2 Code|Alpha-3 Code|Phone Code
 :-----:|:-----:|:-----:|:-----:|:-----:
 Egypt|مصر|EG|EGY|20
 
-* JSON
+* JSON:
 ```json
 {
  "english_name": "Egypt",
@@ -29,7 +29,7 @@ Egypt|مصر|EG|EGY|20
 }
 ```
 
-* SQL
+* SQL:
 ```sql
 INSERT INTO COUNTRY (ENGLISH_NAME, ARABIC_NAME, ALPHA2_CODE, ALPHA3_CODE, PHONE_CODE) VALUES('Egypt', 'مصر', 'EG', 'EGY', '20');
 ```
